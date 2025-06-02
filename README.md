@@ -5,12 +5,19 @@ This is a **Java-based Hotel Reservation System** that allows customers to book 
 ## 📁 Project Structure
 
 HotelReservationSystem/
+
 │
+
 ├── Customer.java # Represents customer details
+
 ├── Hotel.java # Core hotel logic including room and reservation handling
+
 ├── Main_Hotel.java # Main executable class with user interface
+
 ├── Reservation.java # Handles reservation details
+
 ├── Room.java # Describes room properties and availability
+
 └── README.md # Project documentation
 
 
